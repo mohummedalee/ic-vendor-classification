@@ -1,0 +1,1 @@
+![Architecture of three approaches used in this project](splash.jpg)
